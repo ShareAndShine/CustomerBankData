@@ -7,5 +7,7 @@ Srini - March 22 - Started with collecting UK based customer bank details
 To Srini - Please review newly added bank details 
 
 
+Introducting merge conflict.... adding a new content 
 Rajiv - Australia customer details have been added..
+MErge conflict scenario..adding a new content
 
